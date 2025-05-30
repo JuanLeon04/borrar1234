@@ -1,0 +1,39 @@
+{
+    "menu_semanal": [
+      {
+        "id": 1,
+        "dia": "Lunes",
+        "plato": "Arroz con pollo",
+        "descripcion": "Arroz amarillo con vegetales y pollo.",
+        "imagen": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "id": 2,
+        "dia": "Martes",
+        "plato": "Pasta al pesto",
+        "descripcion": "Tallarines con salsa de albahaca.",
+        "imagen": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "id": 3,
+        "dia": "Miercoles",
+        "plato": "Pasta al pesto",
+        "descripcion": "Tallarines con salsa de albahaca.",
+        "imagen": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "id": 4,
+        "dia": "Jueves",
+        "plato": "Pasta al pesto",
+        "descripcion": "Tallarines con salsa de albahaca.",
+        "imagen": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "id": 5,
+        "dia": "Viernes",
+        "plato": "Pasta al pesto",
+        "descripcion": "Tallarines con salsa de albahaca.",
+        "imagen": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      }
+    ]
+  }

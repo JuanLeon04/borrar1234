@@ -1,0 +1,23 @@
+{
+    "resumen":{
+        "entradas": "2",
+        "total": "15 000"
+    },
+
+    "historial": [
+      {
+        "fecha": "01/01/2022",
+        "tipo": "Reserva almuerzo",
+        "diaReservado": "Lunes",
+        "estado": "Reservado",
+        "precio": "15 000"
+       },
+       {
+        "fecha": "12/01/2022",
+        "tipo": "Reserva almuerzo",
+        "diaReservado": "Jueves",
+        "estado": "Cancelado",
+        "precio": "NA"
+       }
+    ]
+}

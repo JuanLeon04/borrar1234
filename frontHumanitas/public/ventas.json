@@ -1,0 +1,47 @@
+{
+    "VentaAlmuerzoSemanal":[
+        {
+            "name": "Lunes", "ventas": 10
+        },
+        {
+            "name": "Martes", "ventas": 5
+        },
+        {
+            "name": "Miercoles", "ventas": 10
+        },
+        {
+            "name": "Jueves", "ventas": 8
+        },
+        {
+            "name": "Viernes", "ventas": 10
+        }
+    ],
+    "VentaProductoSemanal":[
+        {
+            "name": "Lunes", "ventas": 10
+        },
+        {
+            "name": "Martes", "ventas": 5
+        },
+        {
+            "name": "Miercoles", "ventas": 10
+        },
+        {
+            "name": "Jueves", "ventas": 8
+        },
+        {
+            "name": "Viernes", "ventas": 10
+        } 
+    ],
+    "PedidosSemanales":[
+        {
+            "name": "Pedidos Realizados", "value": 25
+        },
+        {
+            "name": "Pedidos Cancelados", "value": 10
+        },
+        {
+            "name": "Multas Pedidos", "value": 2
+        }
+    ]
+}

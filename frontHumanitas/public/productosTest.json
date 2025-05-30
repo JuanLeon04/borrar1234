@@ -1,0 +1,10 @@
+{
+    "productos": [
+      { "id": 1, "nombre": "Café", "categoria": "bebidas", "precio": 2000, "imagen": "https://editorialtelevisa.brightspotcdn.com/dims4/default/10ea439/2147483647/strip/true/crop/706x706+177+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F66%2Fbadcc27245e59fc1c0fd1ca34ae3%2Fcafe.jpg" },
+      { "id": 2, "nombre": "Sándwich", "categoria": "comida", "precio": 7000, "imagen": "https://www.paulinacocina.net/wp-content/uploads/2022/12/recetario-de-sandwiches-800x800.jpg" },
+      { "id": 3, "nombre": "Empanada", "categoria": "comida", "precio": 3500, "imagen": "https://cdn-ilddihb.nitrocdn.com/MgqZCGPEMHvMRLsisMUCAIMWvgGMxqaj/assets/images/optimized/rev-6b9d936/www.goya.com/wp-content/uploads/2023/10/chipotle-chicken-empanadas-900x900.jpg" },
+      { "id": 4, "nombre": "Té", "categoria": "bebidas", "precio": 1500, "imagen": "https://www.infobae.com/resizer/v2/DZ6XOMNF75B7ZOZPHOWO3EKJGI.png?auth=b8bb36f6b6097cff4bfc88608a10b7be30f0c25f1ca551053d17b66d2c95b764&smart=true&width=1200&height=1200&quality=85" },
+      { "id": 5, "nombre": "Papa rellena", "categoria": "comida", "precio": 4000, "imagen": "https://campofernandez.cl/wp-content/uploads/2020/02/pino-450x450.png" },
+      { "id": 6, "nombre": "Naranjada", "categoria": "bebidas", "precio": 2000, "imagen": "https://www.zirus.pizza/app_data_archivos/zirusmovil.soomi.co/productos/producto_d17d92ebe59c4802f5e6341ae26d557d3b16b48d1658262353.jpg" }
+    ]
+  }  

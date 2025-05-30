@@ -1,0 +1,40 @@
+:root {
+    /*Paleta de Colores*/
+    --verde-uis-claro: rgba(153, 204, 51);
+    --verde-uis-claro-transparente: rgba(153, 204, 51, 0.7);
+    --verde-uis: #99cc33;
+    --verde-uis-oscuro: rgb(0, 104, 55);
+    --verde-uis-oscuro-transparente: rgba(0, 104, 55, 0.7);
+    --verde-uis-oscuro-transparente-5: rgba(0, 104, 55, 0.5);
+    /*Tipografia*/
+    --font-size-base: 1rem; /* Tamaño de fuente base */
+    --font-size-lg: 1.25rem; /* Tamaño de fuente grande */
+
+    --negrita: 800; /* Negrita */
+    --normal: 600; /* Normal */
+
+}
+body{
+    font-family: 'Quicksand','Roboto', sans-serif;
+    font-size: var(--font-size-lg);
+    font-weight: var(--normal);
+    line-height: 1.5;
+}
+
+.btn-primary {
+    background-color: #99cc33; /* Color de fondo */
+    border-color: #99cc33;    /* Color del borde */
+    --bs-btn-active-bg: #5a751f; /* Color de fondo al hacer clic */
+    --bs-btn-active-border-color: #5a751f; /* Color del borde al hacer clic */
+    --bs-btn-hover-bg: #78a027; /* Color al pasar el mouse */
+    --bs-btn-hover-border-color: #99cc33; /* Borde al pasar el mouse */  
+}
+  
+.btn-secundary {
+    background-color: #ffffff; /* Color de fondo */
+    border-color: hsl(0, 0%, 100%);    /* Color del borde */
+    --bs-btn-active-bg: #c5d6a0; /* Color de fondo al hacer clic */
+    --bs-btn-active-border-color: #c2d39d; /* Color del borde al hacer clic */
+    --bs-btn-hover-bg: #e9ffbe; /* Color al pasar el mouse */
+    --bs-btn-hover-border-color: #ebffc3; /* Borde al pasar el mouse */  
+}
